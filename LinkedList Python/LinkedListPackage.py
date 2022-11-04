@@ -180,6 +180,7 @@ class LinkedList:
             curr = curr.next
 
 
+
 # print("INSERTING VALUES: ")
 # PyLL=LinkedList()
 # PyLL.insertInempty(100)
@@ -202,8 +203,7 @@ class LinkedList:
 # print("OTHERS: ")
 # index=PyLL.findIndex(30)
 # print(index)
-# length=PyLL.lengthOfLL()
-# print(length)
+# print(len(PyLL))
 # maxnum=PyLL.maximumInLL()
 # print(maxnum)
 # minnum=PyLL.minimumInLL()
